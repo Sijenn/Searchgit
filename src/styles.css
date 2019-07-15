@@ -1,0 +1,21 @@
+
+body{
+  background-image: url("http://www.myseumoftoronto.com/wp-content/uploads/2018/05/plain-black-background.jpg")
+}
+html,
+body,
+header,
+.view {
+  height: 90%;
+}
+
+h1{
+  color: turquoise;
+  font-size: 50px;
+  font-family: 'Monoton', cursive;
+}
+p strong {
+  font-size: 30px;
+  font-style: italic;
+  font-family: 'Lobster Two', cursive;
+}
